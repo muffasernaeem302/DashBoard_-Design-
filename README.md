@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=220&section=header&text=Muffaser%20Naeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=220&section=header&text=Muffaser%20Naeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer&descAlignY=55&descSize=22" width="100%"/>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Building+things+with+code+%F0%9F%92%BB;Always+learning%2C+always+shipping+%F0%9F%9A%80;Bit+curious+about+what's+next+%F0%9F%8C%B1;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG" />
